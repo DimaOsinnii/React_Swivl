@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react_swivl/static/js/main.00e8d345.chunk.js",
+    "main.js.map": "/react_swivl/static/js/main.00e8d345.chunk.js.map",
+    "runtime-main.js": "/react_swivl/static/js/runtime-main.9f417fee.js",
+    "runtime-main.js.map": "/react_swivl/static/js/runtime-main.9f417fee.js.map",
+    "static/css/2.bb4baa32.chunk.css": "/react_swivl/static/css/2.bb4baa32.chunk.css",
+    "static/js/2.1103745d.chunk.js": "/react_swivl/static/js/2.1103745d.chunk.js",
+    "static/js/2.1103745d.chunk.js.map": "/react_swivl/static/js/2.1103745d.chunk.js.map",
+    "index.html": "/react_swivl/index.html",
+    "static/css/2.bb4baa32.chunk.css.map": "/react_swivl/static/css/2.bb4baa32.chunk.css.map",
+    "static/js/2.1103745d.chunk.js.LICENSE.txt": "/react_swivl/static/js/2.1103745d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react_swivl/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f417fee.js",
+    "static/css/2.bb4baa32.chunk.css",
+    "static/js/2.1103745d.chunk.js",
+    "static/js/main.00e8d345.chunk.js"
+  ]
+}
