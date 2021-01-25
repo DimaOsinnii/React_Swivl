@@ -7,5 +7,5 @@ Installation
 
 to run the app
 
-### `npm test`
+### `npm start`
 
